@@ -59,12 +59,13 @@ img {
     text-transform: uppercase;
 }
 
-.text-container h1 {
+.text-container .main-heading {
     font-family: 'Fraunces', serif;
-    font-size: 38px;
+    font-size: 30px;
     color: var(--Very-dark-blue);
     line-height: 1;
     margin-bottom: 30px;
+    width: 80%;
 
 }
 
@@ -107,8 +108,10 @@ img {
 }
 
 .price-box h1 {
+    font-family: 'Fraunces', serif;
     color: var(--Dark-cyan);
     margin-bottom: 0;
+    font-size: 30px;
 }
 
 
