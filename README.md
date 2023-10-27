@@ -11,7 +11,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 
@@ -33,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/zainali954/Product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://zainali954.github.io/Product-preview-card-component/)
+- Solution URL: [https://github.com/zainali954/Product-preview-card-component](https://github.com/zainali954/Product-preview-card-component)
+- Live Site URL: [zainali954.github.io](https://zainali954.github.io/Product-preview-card-component/)
 
 ## My process
 
@@ -50,7 +49,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://zainali954.github.io/Product-preview-card-component/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [zainali954.github.io](https://zainali954.github.io/Product-preview-card-component/)
+- Frontend Mentor - [@zainali954](https://www.frontendmentor.io/profile/zainali954)
 
 
